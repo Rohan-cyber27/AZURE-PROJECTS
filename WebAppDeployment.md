@@ -1,6 +1,6 @@
 ## Deploying a Python Web Application to Azure App Service
 
-# This guide walks you through creating a resource group, setting up an Azure App Service with the Python stack, and deploying a simple Flask web application. We will cover all the steps, from creating the resource group to deploying the application via GitHub.
+ This guide walks you through creating a resource group, setting up an Azure App Service with the Python stack, and deploying a simple Flask web application. We will cover all the steps, from creating the resource group to deploying the application via GitHub.
 
 Step-by-Step Instructions
 # 1. Create a Resource Group
