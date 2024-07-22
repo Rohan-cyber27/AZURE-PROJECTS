@@ -2,8 +2,8 @@
 This guide outlines the steps to analyze Tokyo Olympic data using Azure services, including Azure Storage, Azure Databricks, Azure Data Factory, Azure Synapse Analytics, and Power BI. The data consists of CSV files containing athlete details, gender, medals, coaches, and teams. We will transform, store, and analyze this data.
 
 # Prerequisites
-# Azure Account: Ensure you have an active Azure subscription.
-# Required Services: Azure Storage, Azure Databricks, Azure Data Factory, App Registration, Azure Synapse Analytics, and Power BI.
+Azure Account: Ensure you have an active Azure subscription.
+Required Services: Azure Storage, Azure Databricks, Azure Data Factory, App Registration, Azure Synapse Analytics, and Power BI.
 Step-by-Step Instructions
 
 # 1. Set Up Azure Storage Account
