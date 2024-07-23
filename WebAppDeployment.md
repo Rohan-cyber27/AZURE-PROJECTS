@@ -78,5 +78,4 @@ Azure App Service offers several features for managing and monitoring your appli
 
 ## Conclusion
 
-You have successfully deployed a Python web application to Azure App Service. You can now explore additional features like scaling, monitoring, and configuring your app’s settings.
-
+successfully deployed a Python web application to Azure App Service. 
