@@ -1,5 +1,8 @@
 ## End-to-End Azure Data Engineering Project: Tokyo Olympic Data Analysis
 This guide outlines the steps to analyze Tokyo Olympic data using Azure services, including Azure Storage, Azure Databricks, Azure Data Factory, Azure Synapse Analytics, and Power BI. The data consists of CSV files containing athlete details, gender, medals, coaches, and teams. We will transform, store, and analyze this data.
+# FINAL PRODUCT
+**Number of participants participated in each sport in india**
+![Screenshot 2024-07-26 112512](https://github.com/user-attachments/assets/3ed1159f-0a29-4215-a00e-a6a978da06d6)
 
 # Prerequisites
 Azure Account: Ensure you have an active Azure subscription.
@@ -138,4 +141,6 @@ Select the workspace and publish your report. Share the dashboard link with stak
 Conclusion
 
 successfully set up an end-to-end data engineering pipeline for analyzing Tokyo Olympic data. The process involved configuring Azure Storage, Data Factory, Databricks, Synapse Analytics, and Power BI. You can now explore further enhancements, such as advanced data transformations, more complex queries, and interactive Power BI reports.
+
+
 
