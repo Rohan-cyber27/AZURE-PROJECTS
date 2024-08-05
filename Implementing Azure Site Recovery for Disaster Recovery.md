@@ -1,4 +1,4 @@
-# Advanced Azure Administrator Project: Implementing Azure Site Recovery for Disaster Recovery
+# Implementing Azure Site Recovery for Disaster Recovery
 
 ## Project Overview
 This project focuses on setting up Azure Site Recovery (ASR) to ensure business continuity by replicating on-premises workloads and Azure VMs to a secondary Azure region. In case of a disaster, you can failover to the replicated resources and continue operations with minimal downtime.
