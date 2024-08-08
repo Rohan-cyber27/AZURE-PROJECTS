@@ -6,3 +6,4 @@
 -  **Email Notification on New Gmail Messages (simple)**
 -  **Scalable Multi-Region Web Application**
 -  **Implementing Azure Site Recovery for Disaster Recovery**
+-  **Azure Administration Project**
