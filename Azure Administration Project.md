@@ -1,4 +1,6 @@
-# Azure Administration Project Summary
+
+# Azure Administration Project Summary![Screenshot 2024-08-09 224019](https://github.com/user-attachments/assets/abaceec9-049b-4dc0-8dbe-4aaabb7d600c)
+
 
 This project involves a series of advanced Azure administration tasks that are critical for monitoring, logging, security, and automation in an enterprise environment. Below is a simplified explanation of each task and its purpose.
 
